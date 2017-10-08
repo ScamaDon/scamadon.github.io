@@ -1,0 +1,161 @@
+body {background-color: #E6E6FA;
+
+
+}
+h1{
+    font-family: Lucida Calligraphy;
+    color: red;
+    margin-left:20px;
+
+}
+
+
+p{
+  margin-left: 20px;
+	margin-right:500px;
+
+}
+
+.clear {clear:both;
+        height: 20px;
+
+}
+
+/*div first-child {float: right;}*/
+
+img{
+    height: 200px;
+	width:150px;
+	right:70px;
+	top:45px;
+	position:absolute;
+	clear:left;
+  -webkit-compon
+  -ms-transform: rotate(-6deg); /* IE 9 */
+    -webkit-transform: rotate(-6deg);
+	transform: rotate(-6deg);
+}
+
+
+.edu {
+
+  text-align: center;
+  height: 100px;
+	width: 200px;
+	border-right: 2px solid red;
+	float:left;
+	padding-right:15px;
+	margin-right:20px;
+	margin-top: 20px;
+	margin-left: 100px;
+
+	 }
+
+.edu_info{
+    position: absolute;
+    float: right;
+    height: 50px;
+	width: 1000px;
+	border: 2px ;
+	border-radius: 5px;
+	display:inline-block;
+	margin-left:400px;
+
+
+}
+
+.skills{
+     text-align: center;
+    height: 100px;
+	width: 200px;
+	border-right: 2px solid red;
+	float:left;
+	padding-right:15px;
+	margin-right:20px;
+	margin-left: 100px;
+
+
+
+}
+.skills_info{
+    position: absolute;
+    float: right;
+    height: 50px;
+	width: 1000px;
+	border: 2px ;
+	border-radius: 5px;
+	display:inline-block;
+	margin-left:60px;
+
+
+}
+
+.exp{
+     text-align: center;
+    height: 100px;
+	width: 200px;
+	border-right: 2px solid red;
+	float:left;
+	padding-right:15px;
+	margin-right:20px;
+	margin-left: 100px;;
+
+
+}
+.exp_info{
+  position: absolute;
+  float: right;
+  height: 200px;
+	width: 1000px;
+	border: 2px ;
+	border-radius: 5px;
+	display:inline-block;
+	margin-left:60px;
+
+}
+
+.hob{
+     text-align: center;
+    height: 100px;
+	width: 200px;
+	border-right: 2px solid red;
+	float:left;
+	padding-right:15px;
+	margin-right:20px;
+	margin-left: 100px;
+
+
+}
+.hob_info{
+     position: absolute;
+    float: right;
+    height: 50px;
+	width: 1000px;
+	border: 2px ;
+	border-radius: 5px;
+	display:inline-block;
+	margin-left:60px;
+}
+
+.references{
+      text-align: center;
+    height: 100px;
+	width: 200px;
+	border-right: 2px solid red;
+	float:left;
+	padding-right:15px;
+	margin-right:20px;
+	margin-left: 100px;
+
+	}
+.ref_info{
+     position: absolute;
+    float: right;
+    height: 50px;
+	width: 1000px;
+	border: 2px ;
+	border-radius: 5px;
+	display:inline-block;
+	margin-left:60px;
+  font-weight: bold;
+}
